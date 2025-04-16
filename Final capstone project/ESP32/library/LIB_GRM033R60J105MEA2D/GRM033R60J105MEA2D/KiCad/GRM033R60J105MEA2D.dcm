@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRM033R60J105MEA2D
+D Capacitor MLCC GRM 0201 1uF 6.3V X5R Murata 0201 GRM 1uF Ceramic Multilayer Capacitor, 6.3 V, +85C, X5R Dielectric, +/-20% SMD
+K
+F https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R60J105MEA2-61A.pdf
+$ENDCMP
+#
+#End Doc Library

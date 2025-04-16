@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATFC-0201HQ-2N0B-T
+D 2 nH Unshielded Thin Film Inductor 500 mA 200mOhm Max 0201 (0603 Metric)
+K
+F https://abracon.com/Magnetics/inductors/ATFC-0201HQ.pdf
+$ENDCMP
+#
+#End Doc Library

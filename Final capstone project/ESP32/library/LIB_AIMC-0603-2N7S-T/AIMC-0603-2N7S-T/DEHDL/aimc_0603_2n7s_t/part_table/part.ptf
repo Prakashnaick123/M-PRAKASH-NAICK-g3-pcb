@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AIMC_0603_2N7S_T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ABRACON", "AIMC-0603-2N7S-T" (!) = "", "INDC1608X95N", "Inductors Chip", "815-AIMC-0603-2N7ST", "https://www.mouser.co.uk/ProductDetail/ABRACON/AIMC-0603-2N7S-T?qs=1vO2EIVe%252BY7Dyz%2F3njc3PA%3D%3D", "AIMC-0603-2N7S-T", "https://www.arrow.com/en/products/aimc-0603-2n7s-t/abracon?region=nac", "Inductor Chip Multi-Layer 2.7nH 0.3nH 100MHz 10Q-Factor Ceramic 500mA 100mOhm DCR 0603 T/R", "https://abracon.com/Magnetics/new/AIMC-0603.pdf", "0.95 mm"
+END_PART
+
+END.

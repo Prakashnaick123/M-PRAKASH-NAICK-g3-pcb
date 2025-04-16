@@ -1,0 +1,18 @@
+.GRM033R71E271KA01D :1 ;Chip Capacitor value 271
+GRM033D70J224ME01D
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN GRM033R71E271KA01D
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (GRM033R71E271KA01D)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R71E271KA01-01A.pdf)
+~!Height (0.33mm)
+~!3D_Model (GRM033R71E271KA01D)
+GRM033R71E271KA01D
+1.1!U 2.1!U 

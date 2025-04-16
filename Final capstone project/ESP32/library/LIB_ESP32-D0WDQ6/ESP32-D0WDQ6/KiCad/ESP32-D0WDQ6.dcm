@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-D0WDQ6
+D RF System on a Chip - SoC SMD IC ESP32-D0WDQ6, Dual Core MCU, WiFi & Bluetooth Combo, QFN48-pin, 6*6mm
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library

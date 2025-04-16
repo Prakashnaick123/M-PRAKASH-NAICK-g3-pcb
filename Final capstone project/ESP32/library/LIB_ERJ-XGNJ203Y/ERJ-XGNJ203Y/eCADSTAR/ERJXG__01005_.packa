@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ERJ-XGNJ203Y"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-09-30-14:05:11)
+    (mountForm default
+        (footprintRef "ERJXG__01005_")
+        (spec "System")
+    )
+)

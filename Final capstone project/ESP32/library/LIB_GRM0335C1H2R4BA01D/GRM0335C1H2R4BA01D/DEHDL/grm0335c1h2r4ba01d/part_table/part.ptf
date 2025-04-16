@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GRM0335C1H2R4BA01D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GRM0335C1H2R4BA01D" (!) = "", "GRM033D70J224ME01D", "Other", "81-GRM0335C1H2R4BA1D", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM0335C1H2R4BA01D?qs=7vGxPDjevFPVkMUaTcTZcw%3D%3D", "GRM0335C1H2R4BA01D", "https://www.arrow.com/en/products/grm0335c1h2r4ba01d/murata-manufacturing", "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0201 2.4pF 50volts C0G +/-0.1pF", "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1H2R4BA01-01A.pdf", "0.33 mm"
+END_PART
+
+END.

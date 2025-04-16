@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MSASJ021SB5103KWNA01"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-07-01-15:04:04)
+    (mountForm default
+        (footprintRef "CAPC0201X14N")
+        (spec "System")
+    )
+)

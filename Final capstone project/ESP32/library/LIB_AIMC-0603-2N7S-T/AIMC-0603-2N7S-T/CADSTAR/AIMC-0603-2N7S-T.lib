@@ -1,0 +1,18 @@
+.AIMC-0603-2N7S-T :1 ;Inductor Chip Multi-Layer 2.7nH 0.3nH 100MHz 10Q-Factor Ceramic 500mA 100mOhm DCR 0603 T/R
+INDC1608X95N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN AIMC-0603-2N7S-T
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (AIMC-0603-2N7S-T)
+~!Mouser Part Number (815-AIMC-0603-2N7ST)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ABRACON/AIMC-0603-2N7S-T?qs=1vO2EIVe%252BY7Dyz%2F3njc3PA%3D%3D)
+~!Arrow Part Number (AIMC-0603-2N7S-T)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/aimc-0603-2n7s-t/abracon?region=nac)
+~!Link Datasheet (https://abracon.com/Magnetics/new/AIMC-0603.pdf)
+~!Height (0.95mm)
+~!3D_Model (AIMC-0603-2N7S-T)
+AIMC-0603-2N7S-T
+1.1!U 2.1!U 

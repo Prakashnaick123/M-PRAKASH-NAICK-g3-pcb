@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM0335C1H101JA01D
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=4.1
+Released=2023-03-07 09:31:18
+Downloaded=2025-01-16 13:22:11
+3D=Y

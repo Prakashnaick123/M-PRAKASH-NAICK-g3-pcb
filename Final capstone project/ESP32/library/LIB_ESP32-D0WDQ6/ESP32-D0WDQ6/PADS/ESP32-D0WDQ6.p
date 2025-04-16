@@ -1,0 +1,68 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+ESP32-D0WDQ6 QFN40P600X600X90-49N-D I ANA 9 1 0 0 0
+TIMESTAMP 2025.02.24.16.49.14
+"Manufacturer_Name" Espressif Systems
+"Manufacturer_Part_Number" ESP32-D0WDQ6
+"Mouser Part Number" 356-ESP32-D0WDQ6
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-D0WDQ6?qs=chTDxNqvsykWgzfXx0gR%252BQ%3D%3D
+"Arrow Part Number" 
+"Arrow Price/Stock" 
+"Description" RF System on a Chip - SoC SMD IC ESP32-D0WDQ6, Dual Core MCU, WiFi & Bluetooth Combo, QFN48-pin, 6*6mm
+"Datasheet Link" https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
+"Geometry.Height" 0.9mm
+GATE 1 49 0
+ESP32-D0WDQ6
+1 0 U VDDA_1
+2 0 U LNA_IN
+3 0 U VDD3P3_1
+4 0 U VDD3P3_2
+5 0 U SENSOR_VP
+6 0 U SENSOR_CAPP
+7 0 U SENSOR_CAPN
+8 0 U SENSOR_VN
+9 0 U CHIP_PU
+10 0 U VDET_1
+11 0 U VDET_2
+12 0 U 32K_XP
+13 0 U 32K_XN
+14 0 U GPIO25
+15 0 U GPIO26
+16 0 U GPIO27
+17 0 U MTMS
+18 0 U MTDI
+19 0 U VDD3P3_RTC
+20 0 U MTCK
+21 0 U MTDO
+22 0 U GPIO2
+23 0 U GPIO0
+24 0 U GPIO4
+36 0 U GPIO23
+35 0 U GPIO18
+34 0 U GPIO5
+33 0 U SD_DATA_1
+32 0 U SD_DATA_0
+31 0 U SD_CLK
+30 0 U SD_CMD
+29 0 U SD_DATA_3
+28 0 U SD_DATA_2
+27 0 U GPIO17
+26 0 U VDD_SDIO
+25 0 U GPIO16
+49 0 U GND
+48 0 U CAP1
+47 0 U CAP2
+46 0 U VDDA_3
+45 0 U XTAL_P
+44 0 U XTAL_N
+43 0 U VDDA_2
+42 0 U GPIO21
+41 0 U U0TXD
+40 0 U U0RXD
+39 0 U GPIO22
+38 0 U GPIO19
+37 0 U VDD3P3_CPU
+
+*END*
+*REMARK* SamacSys ECAD Model
+1611069/1526934/2.50/49/3/Integrated Circuit

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESP32-D0WDQ6"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-06-22-02:40:16)
+    (mountForm default
+        (footprintRef "QFN40P600X600X90-49N-D")
+        (spec "System")
+    )
+)

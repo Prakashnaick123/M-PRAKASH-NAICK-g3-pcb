@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_19561863"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-30-22:31:28)
+    (utime 2025-01-03-17:15:50)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "GRM022R60J332KE19L")
+)
+
+
+(pinAssign "ECS_19561863"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-30-22:31:28)
+    (utime 2025-01-03-17:15:50)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19561863")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "GRM022R60J332KE19L")
+)
+
+
+(part "GRM022R60J332KE19L"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-04-30-22:31:28)
+    (utime 2025-01-03-17:15:50)
+    (packageRef "GRM022R60J332KE19L")
+    (pinAssignRef "ECS_19561863")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "MLCC, 01005")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "GRM022R60J332KE19L")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R60J332KE19-01A.pdf")
+    (property "compAreaTopHeight" 0.22)
+)
+
+

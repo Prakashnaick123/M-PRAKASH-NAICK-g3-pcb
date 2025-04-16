@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM022R60J332KE19L
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=3.1
+Released=2024-04-30 22:31:28
+Downloaded=2025-01-20 14:43:18
+3D=Y

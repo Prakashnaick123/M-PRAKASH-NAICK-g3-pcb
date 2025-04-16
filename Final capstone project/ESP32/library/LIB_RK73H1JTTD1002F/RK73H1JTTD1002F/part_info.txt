@@ -1,0 +1,9 @@
+Manufacturer=KOA Speer
+PartNumber=RK73H1JTTD1002F
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=2.3
+Released=2023-03-07 10:55:21
+Downloaded=2025-01-21 15:39:54
+3D=Y

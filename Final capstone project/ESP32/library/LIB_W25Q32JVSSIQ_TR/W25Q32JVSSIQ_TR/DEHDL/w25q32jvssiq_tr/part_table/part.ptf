@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'W25Q32JVSSIQ_TR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Winbond", "W25Q32JVSSIQ TR" (!) = "", "SOIC127P790X216-8N", "Small Outline Packages", "454-W25Q32JVSSIQTR", "https://www.mouser.co.uk/ProductDetail/Winbond/W25Q32JVSSIQ-TR?qs=qSfuJ%252Bfl%2Fd73AdQzQa%2FEuA%3D%3D", "W25Q32JVSSIQ TR", "https://www.arrow.com/en/products/w25q32jvssiqtr/winbond-electronics?utm_currency=USD&region=nac", "NOR Flash spiFlash, 32M-bit, DTR, 4Kb Uniform Sector", "https://www.winbond.com/resource-files/w25q32jv%20spi%20revc%2008302016.pdf", "2.16 mm"
+END_PART
+
+END.

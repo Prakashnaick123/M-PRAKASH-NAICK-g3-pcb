@@ -1,0 +1,18 @@
+.ATFC-0201HQ-2N0B-T :1 ;2 nH Unshielded Thin Film Inductor 500 mA 200mOhm Max 0201 (0603 Metric)
+INDC0603X28N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN ATFC-0201HQ-2N0B-T
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ATFC-0201HQ-2N0B-T)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://abracon.com/Magnetics/inductors/ATFC-0201HQ.pdf)
+~!Height (0.28mm)
+~!3D_Model (ATFC-0201HQ-2N0B-T)
+ATFC-0201HQ-2N0B-T
+1.1!U 2.1!U 

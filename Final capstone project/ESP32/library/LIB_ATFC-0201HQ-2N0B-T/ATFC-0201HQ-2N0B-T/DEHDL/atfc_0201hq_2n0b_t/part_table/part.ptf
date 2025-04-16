@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ATFC_0201HQ_2N0B_T'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ABRACON", "ATFC-0201HQ-2N0B-T" (!) = "", "INDC0603X28N", "Inductors Chip", "", "", "", "", "2 nH Unshielded Thin Film Inductor 500 mA 200mOhm Max 0201 (0603 Metric)", "https://abracon.com/Magnetics/inductors/ATFC-0201HQ.pdf", "0.28 mm"
+END_PART
+
+END.

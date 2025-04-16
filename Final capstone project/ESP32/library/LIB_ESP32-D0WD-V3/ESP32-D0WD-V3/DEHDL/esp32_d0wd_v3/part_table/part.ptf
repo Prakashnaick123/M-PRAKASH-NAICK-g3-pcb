@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESP32_D0WD_V3'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Espressif Systems", "ESP32-D0WD-V3" (!) = "", "QFN35P500X500X90-49N-D", "Quad Flat No-Lead", "356-ESP32-D0WD-V3", "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-D0WD-V3?qs=GBLSl2AkirsI7kXw8ZPing%3D%3D", "", "", "WiFi Development Tools (802.11) SMD IC WiFi Dual Core BT Combo", "https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf", "0.9 mm"
+END_PART
+
+END.

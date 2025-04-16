@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM0335C1H3R9BA01D
+PartCategory=Capacitor
+PackageCategory=Other
+PinCount=2
+Version=3.2
+Released=2023-03-07 09:31:29
+Downloaded=2025-01-16 15:27:03
+3D=Y

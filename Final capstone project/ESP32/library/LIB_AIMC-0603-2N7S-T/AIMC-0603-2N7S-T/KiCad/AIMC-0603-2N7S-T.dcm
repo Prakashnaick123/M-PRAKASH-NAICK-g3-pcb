@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AIMC-0603-2N7S-T
+D Inductor Chip Multi-Layer 2.7nH 0.3nH 100MHz 10Q-Factor Ceramic 500mA 100mOhm DCR 0603 T/R
+K
+F https://abracon.com/Magnetics/new/AIMC-0603.pdf
+$ENDCMP
+#
+#End Doc Library

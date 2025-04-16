@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GRM0335C1H220JA01D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GRM0335C1H220JA01D" (!) = "", "CAPC0603X33N", "Capacitor Chip Non-polarised", "81-GRM0335C1H220JA1D", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM0335C1H220JA01D?qs=WjGk7BNrzSHTRrKAPPVL5w%3D%3D", "GRM0335C1H220JA01D", "https://www.arrow.com/en/products/grm0335c1h220ja01d/murata-manufacturing", "Murata 0201 GRM 22pF Ceramic Multilayer Capacitor, 50 V, +125C, C0G Dielectric, +/-5% SMD", "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM0335C1H220JA01-01A.pdf", "0.33 mm"
+END_PART
+
+END.

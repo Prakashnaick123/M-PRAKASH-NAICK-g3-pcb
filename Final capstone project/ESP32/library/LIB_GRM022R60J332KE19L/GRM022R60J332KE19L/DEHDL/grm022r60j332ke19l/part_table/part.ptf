@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GRM022R60J332KE19L'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GRM022R60J332KE19L" (!) = "", "GRM022C81C222KE01L", "Other", "", "", "", "", "MLCC, 01005", "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM022R60J332KE19-01A.pdf", "0.22 mm"
+END_PART
+
+END.

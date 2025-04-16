@@ -1,0 +1,9 @@
+Manufacturer=ABRACON
+PartNumber=ATFC-0201HQ-2N0B-T
+PartCategory=Inductor
+PackageCategory=Inductors Chip
+PinCount=2
+Version=4.1
+Released=2023-03-14 14:33:42
+Downloaded=2025-01-21 14:53:59
+3D=Y

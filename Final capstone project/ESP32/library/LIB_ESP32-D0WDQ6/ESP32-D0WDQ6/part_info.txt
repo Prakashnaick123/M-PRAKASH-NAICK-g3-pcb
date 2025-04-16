@@ -1,0 +1,9 @@
+Manufacturer=Espressif Systems
+PartNumber=ESP32-D0WDQ6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=49
+Version=2.1
+Released=2019-01-28 12:06:04
+Downloaded=2025-02-24 16:49:14
+3D=Y

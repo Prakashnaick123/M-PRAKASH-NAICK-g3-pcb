@@ -1,0 +1,18 @@
+.GRM033R60J105MEA2D :1 ;Capacitor MLCC GRM 0201 1uF 6.3V X5R Murata 0201 GRM 1uF Ceramic Multilayer Capacitor, 6.3 V, +85C, X5R Dielectric, +/-20% SMD
+GRM033D70J224ME01D
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN GRM033R60J105MEA2D
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (GRM033R60J105MEA2D)
+~!Mouser Part Number (81-GRM033R60J105ME2D)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM033R60J105MEA2D?qs=07yfQVYDK7uCNboOI%2Fj8pQ%3D%3D)
+~!Arrow Part Number (GRM033R60J105MEA2D)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/grm033r60j105mea2d/murata-manufacturing?region=nac)
+~!Link Datasheet (https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM033R60J105MEA2-61A.pdf)
+~!Height (0.33mm)
+~!3D_Model (GRM033R60J105MEA2D)
+GRM033R60J105MEA2D
+1.1!U 2.1!U 
